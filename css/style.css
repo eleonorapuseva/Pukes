@@ -1,1 +1,37 @@
-
+.attels{
+width: 330px;
+ height: 200px;
+ margin-left: 20px;
+ border-style: solid;
+ border-color: red;
+}
+.arejaKatse{
+  border-style: groove;
+  text-align: center;
+  padding: auto;
+  margin: 10% 15% 10% 15%;
+ display: flex;
+}
+.button{
+margin-left: 20%;
+ font-size: 40px;
+ background-color: lightblue;
+}
+.p{
+ border-stye: solid;
+ border-color: green;
+ background-color: red;
+}
+.areja{
+ background-color: lightgreen;
+}
+.h{
+ font-size: 40px;
+ border-stye: solid;
+ border-color: yellow;
+ background-color: yellow;
+ text-align: center
+}
+.buton{
+ font-size: 40px;
+}
